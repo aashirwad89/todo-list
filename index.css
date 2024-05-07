@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+form button:hover{
+  opacity: 90%;
+  border: 3px solid black;
+  transition: .2s all ease-in-out;
+}
+li button:hover{
+opacity: 80%;
+border: 3px solid black;
+transition: .2s all ease-in ;
+}
